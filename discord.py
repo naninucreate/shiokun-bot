@@ -286,4 +286,4 @@ async def nisa_set_config(interaction: discord.Interaction, rate: float = None, 
         ephemeral=True
     )
 
-# client.run('YOUR_BOT_TOKEN')
+# client.run('MTUyMTA2ODIzMjM2MDg1MzY4NQ.Gh8bQu.QwjksSaNW1E2n5asToMettlNgA6A9V67uuR_Sk')
